@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog Juric1962
+title: Welcome to my blog
 ---
 
